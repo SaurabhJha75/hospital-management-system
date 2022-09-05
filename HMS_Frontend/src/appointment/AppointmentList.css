@@ -1,0 +1,20 @@
+.no-appointments-found {
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;    
+}
+
+.load-more-appointments {
+    text-align: center;
+    margin-bottom: 40px;    
+}
+
+.new-appointment-container {
+    max-width: 720px;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 40px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: rgb(195, 221, 235);
+}

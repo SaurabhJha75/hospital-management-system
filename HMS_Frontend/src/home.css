@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.home-container {
+  max-width: 1000px;
+  margin: 0 auto;
+    margin-top: 40px;
+    padding: 40px;
+    border: 1px solid;
+    background-size: 100%;
+    width: 100%;
+    padding-top: 54.166666666667%;
+    height: 0;
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.7em;
+  }
+}

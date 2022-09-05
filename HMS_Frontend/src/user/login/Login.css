@@ -1,0 +1,13 @@
+.login-container {
+    max-width: 520px;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 40px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: rgb(195, 221, 235);
+}
+
+.login-form-button {
+    width: 100%;
+}
